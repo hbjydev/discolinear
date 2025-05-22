@@ -1,0 +1,17 @@
+{
+  "name": "discolinear",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@linear/sdk": "^40.0.0",
+    "cacheables": "^2.0.0",
+    "discord.js": "^14.19.3"
+  }
+}
